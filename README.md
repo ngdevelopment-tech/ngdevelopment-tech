@@ -30,4 +30,4 @@ My portfolio is not a PDF. It is a fully functional desktop environment that run
 
 ## Contact
 
-[Email](mailto:naiimgerges@outlook.com) · [LinkedIn](https://lb.linkedin.com/in/naim-gerges-892591271) · [Instagram](https://www.instagram.com/naimgerges1) · [WhatsApp](https://wa.me/96176923233)
+[Email](mailto:naiimgerges@outlook.com) · [LinkedIn](https://lb.linkedin.com/in/naim-gerges-892591271) · [Instagram](https://www.instagram.com/naiimgerges) · [WhatsApp](https://wa.me/96176923233)
