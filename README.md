@@ -16,6 +16,14 @@ I am the kind of engineer who wants to understand the whole machine. My path sta
 
 **Experience engineering.** Interface detail, motion, real-time audio, accessibility. I care what software feels like, not only what it does.
 
+## Toolbox
+
+- **Languages:** JavaScript / TypeScript, Python, Swift, SQL
+- **Web:** React, Node.js, Express, GraphQL, REST APIs, MongoDB, Three.js / WebGL
+- **Mobile:** native iOS development, Android development, cross-platform applications
+- **AI:** reinforcement learning, transformer pipelines, agentic workflows, prompt engineering
+- **Systems:** networking, cybersecurity fundamentals, cloud services, IoT, robotics
+
 ## The work, in one place
 
 My portfolio is not a PDF. It is a fully functional desktop environment that runs in the browser — a custom window manager, a complete design system, a real-time audio engine, and more than a dozen integrated applications, every layer designed and implemented from scratch.
