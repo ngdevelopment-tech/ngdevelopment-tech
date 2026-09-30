@@ -16,15 +16,15 @@ Today I build complete products. I am just as comfortable shaping the interface 
 
 **Systems and infrastructure.** Networks, security fundamentals, cloud services, hardware. My early years in support and maintenance taught me how every layer actually behaves, so nothing in a stack is a black box to me.
 
-**Experience engineering.** I sweat the last ten percent: motion, sound, typography, accessibility. Software should feel considered. People notice that, even when they cannot explain why.
+**Experience engineering.** I sweat the last ten percent: motion, typography, interaction, accessibility. Software should feel considered. People notice that, even when they cannot explain why.
 
 ## Toolbox
 
-I work with multiple programming languages and frameworks across web, mobile and systems projects, picked per problem rather than by habit. The tools change from one project to the next. The engineering discipline does not.
+Code is one tool among many. Architecture, interfaces, data, infrastructure and the surrounding tooling decide whether a product holds up, so I reach for whatever the problem needs rather than what habit suggests. The tools change from one project to the next. The engineering discipline does not.
 
 ## The work, in one place
 
-My portfolio is not a PDF. It is a fully functional desktop environment that runs in the browser: a custom window manager, a complete design system, a real-time audio engine, and more than a dozen integrated applications, every layer designed and implemented from scratch. It is the shortest honest answer to what I can do.
+My portfolio is not a PDF. It is a fully functional desktop environment that runs in the browser: a custom window manager, a complete design system, and more than a dozen integrated applications, every layer designed and implemented from scratch. It is the shortest honest answer to what I can do.
 
 ### **[Open the portfolio](https://ngdevelopment-tech.github.io/naimgerges/)**
 
