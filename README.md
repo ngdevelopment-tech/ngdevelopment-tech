@@ -1,6 +1,6 @@
 # Naim Gerges
 
-**Full-Stack Developer — Beirut, Lebanon · building as NGDevelopment**
+**Full-Stack Developer — Beirut, Lebanon**
 
 I am the kind of engineer who wants to understand the whole machine. My path started below the code — hardware, networks, support — and kept climbing: computer science and algorithms, then web platforms, then mobile, and now intelligent systems. Today I build complete products: the interface people touch, the APIs behind it, the data underneath, and the automation that ties it all together.
 
