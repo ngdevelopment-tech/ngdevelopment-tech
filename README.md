@@ -30,10 +30,6 @@ My portfolio is not a PDF. It is a fully functional desktop environment that run
 
 ### **[Open the portfolio](https://ngdevelopment-tech.github.io/naimgerges/)**
 
-## Currently
-
-Open to full-stack and software engineering roles — remote or in Beirut — alongside freelance builds and continued depth in intelligent systems. If your team needs someone who can go from database schema to the last pixel, we should talk.
-
 ## Contact
 
 [Email](mailto:naiimgerges@outlook.com) · [LinkedIn](https://lb.linkedin.com/in/naim-gerges-892591271) · [Instagram](https://www.instagram.com/naimgerges1) · [WhatsApp](https://wa.me/96176923233)
