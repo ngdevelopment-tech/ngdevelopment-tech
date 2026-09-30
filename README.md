@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Beirut, Lebanon**
 
-I got into technology from the bottom up. Long before I wrote software that people would use, I was the one opening machines, running cables and sitting with users to figure out why something had stopped working. That habit of understanding how things actually work never left. It pulled me through computer science and algorithms, into building web platforms, then mobile applications, and most recently into intelligent systems that learn and decide.
+I started coding at a very young age, and I never really stopped. What began as curiosity became a craft: long before I shipped software that people would use, I was the one opening machines, running cables and sitting with users to figure out why something had stopped working. That habit of understanding how things actually work never left. It pulled me through computer science and algorithms, into building web platforms, then mobile applications, and most recently into intelligent systems that learn and decide.
 
 Today I build complete products. I am just as comfortable shaping the interface a person touches as I am designing the API behind it, modeling the data underneath it, or setting up the automation that keeps it alive. I do not see those as separate jobs for separate people. To me, the whole machine is one job.
 
